@@ -6,6 +6,8 @@ Installation
 Clone the repo from master.
 
 Run the migrations and seeder.
+Admin email - admin@gmail.com
+Admin password - password 
 
 Set the credentials for the email in the env.
 
